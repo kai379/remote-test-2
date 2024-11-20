@@ -1,2 +1,2 @@
-# remote-test-1
+# remote-1
 # some text
